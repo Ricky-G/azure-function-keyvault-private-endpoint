@@ -1,7 +1,7 @@
 # This has been archived and this same scenario can be found in the below repo
- [Ricky-G/azure-function-keyvault-private-endpoin](https://github.com/Ricky-G/azure-scenario-hub/tree/main/src/function-app-private-endpoints-access-keyvault-scenario)
+ [Ricky-G/azure-function-keyvault-private-endpoints-access-keyvault-scenario](https://github.com/Ricky-G/azure-scenario-hub/tree/main/src/function-app-private-endpoints-access-keyvault-scenario)
 
-# Azure Function App with Key Vault Private Endpoint Demo
+## Azure Function App with Key Vault Private Endpoint Demo
 
 This project demonstrates how to deploy an Azure Function App that securely accesses Azure Key Vault through a private endpoint using VNet integration and Managed Identity. This is an example of secure Azure serverless architecture.
 
